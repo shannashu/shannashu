@@ -22,7 +22,7 @@ h1 {
 
 
 p{
-	font-size: 16px;
+	font-size: 18px;
 	font-kerning: normal;
 	letter-spacing:-0.005em
 	line-height: 2;
@@ -287,7 +287,8 @@ table, td, th {
 	margin-top:-37px;
 	padding: 0px;
 	font-weight: normal;
-	letter-spacing: -0.1px;
+	letter-spacing: 0.3px;
+
 }
 .shanna{
 	grid-column: 1/5;
