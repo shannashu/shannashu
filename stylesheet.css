@@ -304,14 +304,13 @@ table, td, th {
 
 .project-title{
 	grid-column: 1/6;
-	font-weight: normal;
 	font-weight: bold;
 	
 
 }
 
 .catagory{
-	grid-column: 6/8;
+	grid-column: 6/8s;
 	font-weight: bold;
 	padding-left: 0px;
 }
@@ -320,7 +319,6 @@ table, td, th {
 	grid-column: 1/6;
 	padding-top: 0px;
 	line-height: 1.3;
-
 
 
 }
