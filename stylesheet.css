@@ -248,7 +248,7 @@ table, td, th {
 	padding-left: 410px;
 	width: 0px;
 	position: fixed;
-	
+	z-index: 10000;	
 
 }
 
