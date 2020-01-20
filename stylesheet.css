@@ -339,5 +339,13 @@ table, td, th {
 
 
 .footer{
-	grid-column: 1/8;
+
+	grid-column: 1/6;
+	font-weight: normal;
+	grid-row: auto;
+	color:grey;
+	font-size:10px;
+	
+	
+
 }
